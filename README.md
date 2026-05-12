@@ -1,10 +1,11 @@
 # Clash Verge Rev Loyalsoldier Rules Extension
 
+自建节点适用：
 一个用于 Clash Verge Rev / Mihomo 的扩展脚本示例，用于在不修改原始订阅的前提下，叠加使用 [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) 规则集。
 
 本项目适合以下场景：
 
-- 已经在 Clash Verge Rev 中使用机场订阅；
+- 已经在 Clash Verge Rev 中使用的订阅；
 - 不希望直接修改订阅生成的 YAML 配置；
 - 希望额外引入 Loyalsoldier 规则集；
 - 希望通过 `rule-providers` + 前置规则的方式增强分流能力；
@@ -53,3 +54,5 @@
 
 ```text
 编辑扩展脚本
+
+![如图](./ScreenShot.jpg)
