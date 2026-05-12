@@ -60,3 +60,7 @@
 
 粘贴 'extension-script.js' 的内容。
 Job done.
+
+## 致谢
+- Loyalsoldier/clash-rules: https://github.com/Loyalsoldier/clash-rules
+- clash-verge-rev/clash-verge-rev: https://github.com/clash-verge-rev/clash-verge-rev
