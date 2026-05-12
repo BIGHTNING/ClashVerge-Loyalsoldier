@@ -53,7 +53,10 @@
 在订阅配置卡片上右键，选择：
 
 ```text
-编辑扩展脚本
+扩展脚本
 ```
 
 ![如图](./ScreenShot.jpg)
+
+粘贴 'extension-script.js' 的内容。
+Job done.
